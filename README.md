@@ -1,6 +1,6 @@
 # 港南二中也要有旮旯~
-A Galgame based on [Webgal](https://github.com/OpenWebGAL/WebGAL) .
-Now at **V0.0.0.2**
+A Galgame based on [Webgal](https://github.com/OpenWebGAL/WebGAL) .  
+Now at **V0.0.0.2**  
 *By twofourzeronine's dick*
 
 # How to get the Game 
